@@ -8,8 +8,10 @@ Installation instructions:
 - install python requirements via pip
 
 For raspbian this means:
+```
 sudo apt-get install python python-pip -y
 pip install -r requirements.txt
+```
 
 How to use this program:
 "python ubinty.py camera1 false" to disable recording
