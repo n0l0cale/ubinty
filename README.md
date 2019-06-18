@@ -37,8 +37,6 @@ Please use the config.json file as provided in the file repository - not the ver
 ```
 
 How to use this program:
-"python ubinty.py camera1 false" to disable recording
-"python ubinty.py camera1 true" to enable recording
-
-Ideas to implement:
-- not only to change motion on and off, but also enable permanent recording
+"python ubinty.py camera1 motion" to enable motion recording
+"python ubinty.py camera1 full" to enable fullTime recording
+"python ubinty.py camera1 none" to disable recording
