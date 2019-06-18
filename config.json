@@ -1,0 +1,15 @@
+{
+    "unifiserver": "controller.domain.tld",
+    "unifiadminkey": "xx-your-api-key-xx",
+    "cameras": [
+        {
+           "name": "camera1",
+           "id": "5a71234567891"
+        },
+        {
+            "name": "camera2",
+            "id": "5a71234567892"
+        }
+   ]
+}
+
