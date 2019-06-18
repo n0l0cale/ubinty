@@ -18,14 +18,6 @@ with open('config.json') as json_data_file:
 CAMERA_NAME=sys.argv[1]
 CAMERA_ACTION=sys.argv[2]
 
-# MODIFY 
-#UNIFI_SERVER="controller.domain.tld" # your IP or FQDN of your NVR
-#UNIFI_ADMIN_APIKEY="xx-your-api-key-xx" # this API key you find in the settings of your NVR
-
-# program
-CAMERA_NAME=sys.argv[1]
-CAMERA_ACTION=sys.argv[2]
-
 found=0
 
 for i in data["cameras"]:
