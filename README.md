@@ -37,6 +37,8 @@ Please use the config.json file as provided in the file repository - not the ver
 ```
 
 How to use this program:
+```
 "python ubinty.py camera1 motion" to enable motion recording
 "python ubinty.py camera1 full" to enable fullTime recording
 "python ubinty.py camera1 none" to disable recording
+```
